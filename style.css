@@ -2,7 +2,7 @@
 body{
   background-image: rgb(240,240,240);
   color: #252525;
-  font-size: 18px;
+  font-size: 24px;
   font-family: Helvetica;
 }
 h1{
@@ -18,6 +18,7 @@ h2 {
   font-size: 18px;
 }
 a {
+  text-align: center;
   text-decoration: none;
   color: #3d8abb;
 }
