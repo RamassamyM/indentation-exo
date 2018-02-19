@@ -1,0 +1,27 @@
+/* style.css */
+body{
+  background-image: rgb(240,240,240);
+  color: #252525;
+  font-size: 14px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Helvetica;
+  color: #252525;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: Helvetica;
+  color: #252525;
+  font-weight: lighter;
+  font-size: 18px;
+}
+a {
+  text-decoration: none;
+  color: #3d8abb;
+}
+a:hover {
+  text-decoration: none;
+  color: #e84089;
+}
